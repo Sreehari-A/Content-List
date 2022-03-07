@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcontent_list=self.webpackChunkcontent_list||[]).push([[867],{3867:function(e,t,s){e.exports=s.p+"static/media/poster1.d966e333249e4f74e821.jpg"}}]);
